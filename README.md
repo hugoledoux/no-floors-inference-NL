@@ -1,8 +1,5 @@
 # Inference of building floor count in the Netherlands
 
-This repository contains the code developed during the graduation project of Ellie Roy for the MSc in Geomatics at TU Delft. 
-For further details, the thesis report is available [here](http://resolver.tudelft.nl/uuid:6de4255c-ab2b-49c2-a282-ed779de092a1). 
-
 ## Introduction 
 
 Data on the number of floors is required for a variety of applications, ranging from energy demand estimation to flood response plans. 
